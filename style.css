@@ -1,0 +1,9 @@
+body {
+    background: rgb(241, 243, 194);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(27, 11, 100);
+}
+div {
+    font-size: 5em;
+}
